@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/algorithms_and_data_structures/skip_list_implementation/Node.h
+bits/stdc++.h
+-
+
+D:/C++/algorithms_and_data_structures/skip_list_implementation/SkipList.h
+Node.h
+D:/C++/algorithms_and_data_structures/skip_list_implementation/Node.h
+iostream
+-
+
+D:/C++/algorithms_and_data_structures/skip_list_implementation/main.cpp
+iostream
+-
+SkipList.h
+D:/C++/algorithms_and_data_structures/skip_list_implementation/SkipList.h
+chrono
+-
+time.h
+D:/C++/algorithms_and_data_structures/skip_list_implementation/time.h
+

@@ -1,0 +1,4 @@
+"D:\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/mingw1/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/mingw1/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/mingw1/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\C++\algorithms_and_data_structures\skip_list_implementation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C++/algorithms_and_data_structures/skip_list_implementation/cmake-build-debug
